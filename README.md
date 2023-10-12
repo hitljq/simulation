@@ -1,2 +1,2 @@
 # simulation
-MPC simulation code for depth and angles
+MPC simulation codes for depth and angles
